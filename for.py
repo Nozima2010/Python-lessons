@@ -80,8 +80,58 @@
 # print(sum)
 
 # 12-masala
-n=float(input("son kirit"))
-sum=
+# n=float(input("son kirit"))
+# for i in range(1,n):
+#     print(n*i)
+
+# 13-masala
+# n=int(input("son kirit")) 
+# son=0
+# for i in range(n):
+    # if i%2==0:
+    #     son+=1.1+i*0.1
+    # else:
+    #     son+=1.1-i*0.1
+# print(son)
+# CHIQMAGAN
+
+# 14-masala
+
+# 15-masala
+# n=int(input("son kirit: "))
+# a=float(input("n ning nechinchi darajasini topish kerak? "))
+# print(n**a)
+
+# 16-masala
+# a=float(input("a sonini kiriting"))
+# n=int(input("n sonini kiriting"))
+# for i in range(1,n):
+#     print(a**i)
+
+# 17-masala
+# n=int(input("n sonin kiriting"))
+# a=float(input("a sonini kiriting"))
+# sum=1
+# for i in range(1,n):
+#     sum+=(a**i)
+#     print(sum)
+
+# 18-masala
+# n=int(input(" n sonini kiriting"))
+# a=int(input("a sonini kiriting"))
+# sum=1
+# for i in range(n):
+#     if i%2==0:
+#         sum+=
+#     else:
+#         sum+
+
+# 19-masala
+
+
+
+
+
 
 
 
